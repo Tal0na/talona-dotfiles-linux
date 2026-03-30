@@ -1,0 +1,28 @@
+[2026-03-29 06:44:31.886] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 06:45:04.404] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 06:55:24.992] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 06:55:45.773] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 06:55:45.794] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 06:55:45.956] [error] [AUDIO PLAYER] Failed to set play queue - mpv errorcode 10 - undefined
+[2026-03-29 06:55:45.956] [error] [AUDIO PLAYER] Failed to set play queue
+[2026-03-29 06:55:47.579] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 07:03:12.961] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 07:03:13.395] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 07:03:13.445] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 15:50:35.161] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 15:50:35.642] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 15:50:35.690] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 15:51:50.546] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 15:51:50.952] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 15:51:51.001] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 21:03:35.128] [error] [AUDIO PLAYER] Failed to seek to 0 seconds - mpv errorcode 3 - IPC command invalid
+[2026-03-29 21:03:35.129] [error] [AUDIO PLAYER] Failed to seek to 0 seconds
+[2026-03-29 21:32:07.220] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 21:32:07.679] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 21:32:07.734] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-29 22:46:59.064] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-29 22:46:59.501] [error] [AUDIO PLAYER] Setting properties: {"speed":1}
+[2026-03-29 22:46:59.554] [error] [AUDIO PLAYER] Attempting to initialize mpv with parameters: {"extraParameters":["--audio-device=auto"],"properties":{"audio-exclusive":"no","gapless-audio":"weak","replaygain":"no","replaygain-clip":true,"replaygain-preamp":0,"speed":1,"volume":30}}
+[2026-03-30 04:46:59.604] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-30 10:46:59.620] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage
+[2026-03-30 16:46:59.777] [warn]  [SYSTEM] APPIMAGE env is not defined, current application is not an AppImage

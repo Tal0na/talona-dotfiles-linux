@@ -1,0 +1,10 @@
+[sie][Limiter#0]
+attack=3
+inputToLink=0
+inputToSidechain=0
+linkToInput=0
+linkToSidechain=0
+release=20
+sidechainToInput=0
+sidechainToLink=0
+threshold=-1

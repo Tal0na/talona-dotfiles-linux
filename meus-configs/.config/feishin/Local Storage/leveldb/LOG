@@ -1,0 +1,14 @@
+2026/03/29-22:46:59.035 26959 Reusing MANIFEST /home/talona/.config/feishin/Local Storage/leveldb/MANIFEST-000001
+2026/03/29-22:46:59.039 26959 Recovering log #41
+2026/03/29-22:46:59.039 26959 Level-0 table #44: started
+2026/03/29-22:46:59.044 26959 Level-0 table #44: 17324 bytes OK
+2026/03/29-22:46:59.046 26959 Delete type=0 #41
+2026/03/29-22:46:59.046 2696a Compacting 4@0 + 1@1 files
+2026/03/29-22:46:59.048 2696a Generated table #46@0: 13 keys, 9684 bytes
+2026/03/29-22:46:59.049 2696a Compacted 4@0 + 1@1 files => 9684 bytes
+2026/03/29-22:46:59.052 2696a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/29-22:46:59.053 2696a Delete type=2 #38
+2026/03/29-22:46:59.053 2696a Delete type=2 #42
+2026/03/29-22:46:59.053 2696a Delete type=2 #44
+2026/03/29-22:46:59.053 2696a Delete type=2 #36
+2026/03/29-22:46:59.053 2696a Delete type=2 #40
