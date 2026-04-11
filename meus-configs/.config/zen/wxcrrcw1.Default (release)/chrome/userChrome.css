@@ -1,0 +1,46 @@
+@import "zen-themes.css";
+
+:root, :root[zen-theme] {
+  /* 🎨 Base Gruvbox */
+  --zen-primary-color: #ebdbb2 !important; /* fg */
+  --zen-main-browser-background-toolbar: #282828 !important; /* dark0 */
+  --zen-main-browser-background: #32302f !important; /* dark1 */
+
+  /* 🧱 Estrutura */
+  --zen-border-radius: 10px !important;
+  --zen-element-separation: 8px !important;
+
+  /* ✨ Texto */
+  --toolbox-textcolor: #d5c4a1 !important;
+  --lwt-text-color: #ebdbb2 !important;
+
+  /* 🧩 Toolbar / UI */
+  --toolbar-bgcolor: #282828 !important;
+  --lwt-accent-color: #282828 !important;
+
+  /* 🎯 Destaques Gruvbox */
+  --toolbarbutton-hover-background: rgba(131, 165, 152, 0.2) !important; /* aqua */
+  --toolbarbutton-active-background: rgba(131, 165, 152, 0.35) !important;
+
+  /* 🌫️ Extras */
+  --zen-background-opacity: 1 !important;
+  --zen-grainy-background-opacity: 0.05 !important;
+
+  /* 🖼️ opcional (imagem) */
+  --mod-sameerasw-zen_notab_img: url('https://github.com/sameerasw/my-internet/blob/main/wave-light.png?raw=true') !important;
+  --mod-sameerasw-zen_notab_img_size: 140px !important;
+  --mod-sameerasw-zen_notab_img_opacity: 0.4 !important;
+
+  --mod-sameerasw-zen_compact_sidebar_width: 165px !important;
+}
+
+/* 🔴 Hover da barra de URL (mais Gruvbox) */
+.urlbarView-row-inner:hover {
+  color: #fb4934 !important; /* red bright */
+}
+
+/* 🧠 Seleção e foco */
+::selection {
+  background: #458588 !important; /* blue */
+  color: #ebdbb2 !important;
+}
